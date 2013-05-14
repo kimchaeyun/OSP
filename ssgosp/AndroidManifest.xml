@@ -22,6 +22,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="com.shinsegae.android.ssgosp.CalActivity"></activity>
+        <activity android:name="com.shinsegae.android.ssgosp.DetailActivity"></activity>
     </application>
 
 </manifest>
